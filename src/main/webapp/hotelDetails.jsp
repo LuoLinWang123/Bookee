@@ -21,7 +21,7 @@
 }
 </style>
 <meta charset="ISO-8859-1">
-<title>Hotel Details</title>
+<title>Hotel Details 123</title>
 </head>
 <body>
 
